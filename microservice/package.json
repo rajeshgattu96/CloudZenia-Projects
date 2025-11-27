@@ -1,0 +1,11 @@
+{
+  "name": "cloudzenia-microservice",
+  "version": "1.0.0",
+  "description": "Simple Node.js microservice for CloudZenia interview",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rajesh",
+  "license": "MIT"
+}
